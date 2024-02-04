@@ -1,4 +1,4 @@
-Simple Sketch to test micro-usv cable for data lines.
+Simple Sketch to test micro-usb cable for data lines.
 
 Hardware 
 
